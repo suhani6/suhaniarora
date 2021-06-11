@@ -5,7 +5,7 @@ export const projectsData = [
             'In this project i have implemented a payment gatway integration and created a website for an NGO for donations using HTML and CSS.',
         imageUrl: 'https://www.dreamhost.com/blog/wp-content/uploads/2017/11/online_payment-750x400.jpg',
         videoUrl:
-            'https://github.com/suhani6/Web-Development.git',
+            'https://suhani6.github.io/Web-Development/',
         
     },
     {
