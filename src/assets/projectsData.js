@@ -24,7 +24,7 @@ export const projectsData = [
         projectDescription:
             'As a developer/designer, you should definitely have your own portfolio website. There are endless benefits. But, a lot of people feel that it would be tough to make one. So here I have created my own using React framework',
         imageUrl: 'https://kinsta.com/wp-content/uploads/2019/01/portfolio-website-1024x512.png',
-        videoUrl: 'http://theleanprogrammer.com/aam',
+        videoUrl: 'https://suhani6.github.io/suhaniarora/#/',
         
     },
     {
