@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/suhaniarora/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/suhaniarora/static/js/main.847130d8.chunk.js",
+    "main.js.map": "/suhaniarora/static/js/main.847130d8.chunk.js.map",
+    "runtime-main.js": "/suhaniarora/static/js/runtime-main.758dde03.js",
+    "runtime-main.js.map": "/suhaniarora/static/js/runtime-main.758dde03.js.map",
+    "static/js/2.8b28c4ed.chunk.js": "/suhaniarora/static/js/2.8b28c4ed.chunk.js",
+    "static/js/2.8b28c4ed.chunk.js.map": "/suhaniarora/static/js/2.8b28c4ed.chunk.js.map",
+    "static/js/3.bdc4d014.chunk.js": "/suhaniarora/static/js/3.bdc4d014.chunk.js",
+    "static/js/3.bdc4d014.chunk.js.map": "/suhaniarora/static/js/3.bdc4d014.chunk.js.map",
+    "index.html": "/suhaniarora/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/suhaniarora/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.8b28c4ed.chunk.js.LICENSE.txt": "/suhaniarora/static/js/2.8b28c4ed.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/suhaniarora/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.758dde03.js",
+    "static/js/2.8b28c4ed.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.847130d8.chunk.js"
+  ]
+}
