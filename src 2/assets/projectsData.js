@@ -27,13 +27,5 @@ export const projectsData = [
         videoUrl: 'https://suhani6.github.io/suhaniarora/#/',
         
     },
-    {
-        projectName: 'Flexbox Cheatsheet',
-        projectDescription:
-            'A frontend web developer must know the concepts of CSS Flexbox. So here is a CSS Flexbox cheatsheet, built using CSS Flexbox. Learn the concepts of flexbox by building a cheatsheet which is built using flexbox. Super cool!',
-        imageUrl: 'https://madhavbahl.tech/portfolio-assets/proj3.PNG',
-        videoUrl:
-            'https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY',
-        
-    },
+    
 ];
