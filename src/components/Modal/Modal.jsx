@@ -19,6 +19,7 @@ const Modal = ({ closeModal }) => {
                     
                     <p>
                         Hi, guys Communication - the human connection - is the key to personal and career success.
+                    </p>
                     <p>
                         Connect with me on Linkedin and lets share our learnings and grow our network!!
                     </p>
